@@ -1,0 +1,4 @@
+Please refer this documentation for reference:
+
+- Recommender_system.ipynb is the ipython notebook file, with cleared outputs.
+- Recommender_system.py is the equivalent python file which can be run directly from the python console.
